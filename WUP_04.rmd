@@ -67,7 +67,7 @@ Base on the data,we can see that there are clear differences with every median v
 ```{r}
 favstats(WORDSUM~DEGREE,data=data)
 ```
-By looking at the data we can say that the difference in the mean is based on the degree with the lowest being the LT high school with an average score of 7.75 which will be compared to the Graduate which contains an average score of 10.09.
+By looking at the data we can say that the difference in the mean is based on the degree with the lowest being the LT high school with an average score of 7.75 which will be compared to the Graduate which contains an average score of 10.09
 
 ## Inferential Results
 
