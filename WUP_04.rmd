@@ -77,7 +77,7 @@ By looking at the data we can say that the difference in the mean is based on th
 model1 <- aov(WORDSUM~DEGREE,data=data)
 summary.aov(model1)
 ```
- Bases on this information we can see that the P-value is 0.000236 which is less than 0.05 which means we will reject the null hypothesis. 
+ Bases on this information we can see that the P-value is 0.000236 which is less than 0.05 which means we will reject the null hypothesis
 
 
 # Discussion and Conclusion
