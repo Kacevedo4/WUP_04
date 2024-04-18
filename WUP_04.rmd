@@ -57,7 +57,7 @@ GSS = read.csv("GSScsv.csv")
 boxplot(WORDSUM~DEGREE, data=GSS)
 ```
 
-Base on the data,we can see that there are clear differences with every median value between every degree within LT High School. The lowest degree has a value of 8 and the median value contains a value of 11. 
+Base on the data,we can see that there are clear differences with every median value between every degree within LT High School. The lowest degree has a value of 8 and the median value contains a value of 11
 
 
 ### Numerical Descriptive Results
